@@ -1,0 +1,11 @@
+.navbar{
+    background-color: rgba(77, 147, 204, 0.664);
+}
+
+.quem-somos{
+    background-color:rgba(131, 139, 137, 0.582);
+}
+
+.margin{
+    padding-top: 50px;  /* padding cria uma margem interna */
+}
